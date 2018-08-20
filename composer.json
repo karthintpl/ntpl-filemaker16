@@ -4,6 +4,8 @@
     "description": "Filemaker PHP Web Publishing",
     "license": "MIT",
     "keywords": ["filemaker", "CWP", "Custom web Publishing", "PHP-API", "ntpl", "FM"],
+    "minimum-stability": "alpha",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "Karthikeyan M",
