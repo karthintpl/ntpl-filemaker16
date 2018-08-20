@@ -1,0 +1,27 @@
+{
+    "name": "ntpl/filemaker16",
+    "type": "library",
+    "description": "Filemaker PHP Web Publishing",
+    "keywords": ["filemaker", "CWP", "Custom web Publishing", "PHP-API", "ntpl", "FM"],
+    "authors": [
+        {
+            "name": "Karthikeyan M",
+            "email": "boxofkarthi@gmail.com"
+        }
+    ],
+    "license" : "1.0.0",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ntpl\\" : ["core/"]
+        },
+        "classmap":[
+            "core/FileMaker.php"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.6"
+    }
+}
