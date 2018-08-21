@@ -22,8 +22,5 @@
         "classmap":[
             "core/FileMaker.php"
         ]
-    },
-    "require-dev": {
-        "phpunit/phpunit": "^5.6"
     }
 }
