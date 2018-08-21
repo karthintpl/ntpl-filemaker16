@@ -1,6 +1,6 @@
 {
     "name": "ntpl/filemaker16",
-    "type": "package",
+    "type": "library",
     "description": "Filemaker PHP Web Publishing supporting files",
     "license": "MIT",
     "keywords": ["filemaker", "CWP", "Custom web Publishing", "PHP-API", "ntpl", "FM"],
